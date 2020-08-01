@@ -11,6 +11,10 @@ class Anagram
   
   def match(string)
 
+    string.select do|w|
+    binding.pry
+  end
+    
    
         
     
