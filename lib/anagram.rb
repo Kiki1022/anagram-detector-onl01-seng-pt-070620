@@ -13,16 +13,16 @@ class Anagram
 
     string.select do|w|
     binding.pry
-    end
+#     end
     
    
         
     
       
-  end 
+#   end 
     
   
-end
+# end
   
   
   
